@@ -46,6 +46,14 @@
     <location x="47.0517769" y="146.26619" />
     <description box="all" iof-2004-ref="14.3" />
   </control>
+  <control id="10" kind="normal">
+    <code>107</code>
+    <location x="24.2143288" y="135.358765" />
+  </control>
+  <control id="11" kind="normal">
+    <code>108</code>
+    <location x="3.94193363" y="132.206879" />
+  </control>
   <course id="1" kind="normal" order="1">
     <name>White</name>
     <labels label-kind="sequence" />
@@ -64,7 +72,7 @@
     <next course-control="12" />
   </course-control>
   <course-control id="2" control="1">
-    <next course-control="11" />
+    <next course-control="13" />
   </course-control>
   <course-control id="12" control="2">
     <next course-control="4" />
@@ -89,4 +97,16 @@
   </course-control>
   <course-control id="10" control="9" />
   <course-control id="11" control="9" />
+  <course-control id="13" control="2">
+    <next course-control="14" />
+  </course-control>
+  <course-control id="14" control="10">
+    <next course-control="16" />
+  </course-control>
+  <course-control id="16" control="11">
+    <next course-control="17" />
+  </course-control>
+  <course-control id="17" control="4">
+    <next course-control="11" />
+  </course-control>
 </course-scribe-event>
