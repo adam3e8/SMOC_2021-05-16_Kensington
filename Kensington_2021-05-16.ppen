@@ -4,7 +4,7 @@
     <map kind="OCAD" scale="15000" ignore-missing-fonts="false" absolute-path="F:\SMOC\Maps\Kensington 2021.ocd">..\..\Maps\Kensington 2021.ocd</map>
     <standards map="2017" description="2004" />
     <all-controls print-scale="10000" description-kind="symbols" />
-    <print-area automatic="true" restrict-to-page-size="true" left="-69.80987" top="226.520233" right="116.45681" bottom="82.58689" page-width="850" page-height="1100" page-margins="0" page-landscape="true" />
+    <print-area automatic="true" restrict-to-page-size="true" left="-55.2421265" top="228.428284" right="131.024551" bottom="84.49494" page-width="850" page-height="1100" page-margins="0" page-landscape="true" />
     <numbering start="100" disallow-invertible="false" />
     <punch-card rows="3" columns="8" left-to-right="true" top-to-bottom="false" />
     <course-appearance scale-sizes="RelativeTo15000" scale-sizes-circle-gaps="true" auto-leg-gap-size="3.5" blend-purple="true" />
@@ -24,7 +24,7 @@
   </control>
   <control id="4" kind="normal">
     <code>102</code>
-    <location x="5.117915" y="150.644577" />
+    <location x="4.56693172" y="150.534378" />
   </control>
   <control id="5" kind="normal">
     <code>103</code>
@@ -54,6 +54,18 @@
     <code>108</code>
     <location x="3.94193363" y="132.206879" />
   </control>
+  <control id="12" kind="normal">
+    <code>109</code>
+    <location x="6.32583952" y="181.253922" />
+  </control>
+  <control id="15" kind="normal">
+    <code>110</code>
+    <location x="62.64248" y="163.384262" />
+  </control>
+  <control id="14" kind="normal">
+    <code>111</code>
+    <location x="73.98671" y="178.058212" />
+  </control>
   <course id="1" kind="normal" order="1">
     <name>White</name>
     <labels label-kind="sequence" />
@@ -65,7 +77,7 @@
     <name>Yellow</name>
     <labels label-kind="sequence" />
     <first course-control="2" />
-    <print-area automatic="true" restrict-to-page-size="true" left="-46.4499664" top="216.474" right="139.816711" bottom="72.54066" page-width="850" page-height="1100" page-margins="0" page-landscape="true" />
+    <print-area automatic="true" restrict-to-page-size="true" left="-54.2902222" top="228.929321" right="131.976456" bottom="84.99598" page-width="850" page-height="1100" page-margins="0" page-landscape="true" />
     <options print-scale="10000" description-kind="symbols" />
   </course>
   <course-control id="1" control="1">
@@ -107,6 +119,21 @@
     <next course-control="17" />
   </course-control>
   <course-control id="17" control="4">
+    <next course-control="18" />
+  </course-control>
+  <course-control id="18" control="12">
+    <next course-control="21" />
+  </course-control>
+  <course-control id="21" control="6">
+    <next course-control="20" />
+  </course-control>
+  <course-control id="20" control="14">
+    <next course-control="22" />
+  </course-control>
+  <course-control id="22" control="15">
+    <next course-control="23" />
+  </course-control>
+  <course-control id="23" control="8">
     <next course-control="11" />
   </course-control>
 </course-scribe-event>
