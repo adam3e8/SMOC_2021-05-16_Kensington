@@ -94,6 +94,38 @@
     <code>118</code>
     <location x="65.24942" y="141.067856" />
   </control>
+  <control id="39" kind="normal">
+    <code>119</code>
+    <location x="38.1857872" y="166.3254" />
+  </control>
+  <control id="40" kind="normal">
+    <code>120</code>
+    <location x="-69.46699" y="176.495941" />
+  </control>
+  <control id="41" kind="normal">
+    <code>121</code>
+    <location x="-21.8053074" y="154.695755" />
+  </control>
+  <control id="42" kind="normal">
+    <code>122</code>
+    <location x="14.7669516" y="116.719269" />
+  </control>
+  <control id="43" kind="normal">
+    <code>123</code>
+    <location x="46.7063637" y="117.140419" />
+  </control>
+  <control id="44" kind="normal">
+    <code>124</code>
+    <location x="86.57797" y="118.825119" />
+  </control>
+  <control id="45" kind="normal">
+    <code>125</code>
+    <location x="88.40291" y="157.854218" />
+  </control>
+  <control id="46" kind="normal">
+    <code>126</code>
+    <location x="66.0098648" y="103.592804" />
+  </control>
   <course id="1" kind="normal" order="1">
     <name>White</name>
     <labels label-kind="sequence" />
@@ -112,6 +144,20 @@
     <name>Orange</name>
     <labels label-kind="sequence" />
     <first course-control="31" />
+    <print-area automatic="true" restrict-to-page-size="true" left="-55.2421265" top="228.428284" right="131.024551" bottom="84.49494" page-width="850" page-height="1100" page-margins="0" page-landscape="true" />
+    <options print-scale="10000" description-kind="symbols" />
+  </course>
+  <course id="5" kind="normal" order="4">
+    <name>Green</name>
+    <labels label-kind="sequence" />
+    <first course-control="49" />
+    <print-area automatic="true" restrict-to-page-size="true" left="-55.2421265" top="228.428284" right="131.024551" bottom="84.49494" page-width="850" page-height="1100" page-margins="0" page-landscape="true" />
+    <options print-scale="10000" description-kind="symbols" />
+  </course>
+  <course id="6" kind="normal" order="5">
+    <name>Red</name>
+    <labels label-kind="sequence" />
+    <first course-control="51" />
     <print-area automatic="true" restrict-to-page-size="true" left="-55.2421265" top="228.428284" right="131.024551" bottom="84.49494" page-width="850" page-height="1100" page-margins="0" page-landscape="true" />
     <options print-scale="10000" description-kind="symbols" />
   </course>
@@ -181,7 +227,7 @@
     <next course-control="38" />
   </course-control>
   <course-control id="37" control="24">
-    <next course-control="47" />
+    <next course-control="48" />
   </course-control>
   <course-control id="32" control="9" />
   <course-control id="39" control="2">
@@ -201,5 +247,70 @@
   </course-control>
   <course-control id="47" control="15">
     <next course-control="45" />
+  </course-control>
+  <course-control id="48" control="14">
+    <next course-control="47" />
+  </course-control>
+  <course-control id="49" control="1">
+    <next course-control="75" />
+  </course-control>
+  <course-control id="50" control="9" />
+  <course-control id="51" control="1">
+    <next course-control="64" />
+  </course-control>
+  <course-control id="52" control="9" />
+  <course-control id="64" control="2">
+    <next course-control="67" />
+  </course-control>
+  <course-control id="67" control="39">
+    <next course-control="66" />
+  </course-control>
+  <course-control id="66" control="40">
+    <next course-control="68" />
+  </course-control>
+  <course-control id="68" control="41">
+    <next course-control="69" />
+  </course-control>
+  <course-control id="69" control="11">
+    <next course-control="70" />
+  </course-control>
+  <course-control id="70" control="42">
+    <next course-control="71" />
+  </course-control>
+  <course-control id="71" control="43">
+    <next course-control="72" />
+  </course-control>
+  <course-control id="72" control="44">
+    <next course-control="73" />
+  </course-control>
+  <course-control id="73" control="24">
+    <next course-control="74" />
+  </course-control>
+  <course-control id="74" control="45">
+    <next course-control="52" />
+  </course-control>
+  <course-control id="75" control="2">
+    <next course-control="76" />
+  </course-control>
+  <course-control id="76" control="39">
+    <next course-control="77" />
+  </course-control>
+  <course-control id="77" control="40">
+    <next course-control="78" />
+  </course-control>
+  <course-control id="78" control="41">
+    <next course-control="79" />
+  </course-control>
+  <course-control id="79" control="11">
+    <next course-control="80" />
+  </course-control>
+  <course-control id="80" control="42">
+    <next course-control="81" />
+  </course-control>
+  <course-control id="81" control="43">
+    <next course-control="84" />
+  </course-control>
+  <course-control id="84" control="46">
+    <next course-control="50" />
   </course-control>
 </course-scribe-event>
