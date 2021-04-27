@@ -4,7 +4,7 @@
     <map kind="OCAD" scale="15000" ignore-missing-fonts="false" absolute-path="C:\Users\Steve\Documents\Orienteering\Turtlehead\2019\Kensington\Kensington\Kensington 2021.ocd">..\Documents\Orienteering\Turtlehead\2019\Kensington\Kensington\Kensington 2021.ocd</map>
     <standards map="2017" description="2004" />
     <all-controls print-scale="10000" description-kind="symbols" />
-    <print-area automatic="true" restrict-to-page-size="true" left="-77.51582" top="206.842682" right="108.750854" bottom="62.90934" page-width="850" page-height="1100" page-margins="0" page-landscape="true" />
+    <print-area automatic="true" restrict-to-page-size="true" left="-49.2286835" top="234.683136" right="137.038" bottom="90.74981" page-width="850" page-height="1100" page-margins="0" page-landscape="true" />
     <numbering start="100" disallow-invertible="false" />
     <punch-card rows="3" columns="8" left-to-right="true" top-to-bottom="false" />
     <course-appearance scale-sizes="RelativeTo15000" scale-sizes-circle-gaps="true" auto-leg-gap-size="3.5" blend-purple="true" />
@@ -66,17 +66,9 @@
     <code>111</code>
     <location x="72.37398" y="179.86528" />
   </control>
-  <control id="24" kind="normal">
-    <code>113</code>
-    <location x="87.36122" y="144.533035" />
-  </control>
   <control id="25" kind="normal">
     <code>114</code>
     <location x="53.32095" y="96.27667" />
-  </control>
-  <control id="23" kind="normal">
-    <code>112</code>
-    <location x="16.2809963" y="89.10347" />
   </control>
   <control id="26" kind="normal">
     <code>115</code>
@@ -86,10 +78,6 @@
     <code>116</code>
     <location x="28.1493988" y="91.71188" />
   </control>
-  <control id="28" kind="normal">
-    <code>117</code>
-    <location x="93.94235" y="118.765572" />
-  </control>
   <control id="30" kind="normal">
     <code>118</code>
     <location x="65.24942" y="141.067856" />
@@ -97,14 +85,6 @@
   <control id="39" kind="normal">
     <code>119</code>
     <location x="38.1857872" y="166.3254" />
-  </control>
-  <control id="40" kind="normal">
-    <code>120</code>
-    <location x="-69.46699" y="176.495941" />
-  </control>
-  <control id="41" kind="normal">
-    <code>121</code>
-    <location x="-21.8053074" y="154.695755" />
   </control>
   <control id="42" kind="normal">
     <code>122</code>
@@ -142,21 +122,9 @@
     <code>130</code>
     <location x="106.31385" y="171.212646" />
   </control>
-  <control id="51" kind="normal">
-    <code>131</code>
-    <location x="98.9455643" y="197.494171" />
-  </control>
   <control id="53" kind="normal">
     <code>132</code>
     <location x="109.632278" y="200.026428" />
-  </control>
-  <control id="54" kind="normal">
-    <code>133</code>
-    <location x="126.589546" y="216.601028" />
-  </control>
-  <control id="55" kind="normal">
-    <code>134</code>
-    <location x="123.707535" y="237.542267" />
   </control>
   <control id="56" kind="normal">
     <code>135</code>
@@ -169,10 +137,6 @@
   <control id="58" kind="normal">
     <code>137</code>
     <location x="17.9966221" y="139.297562" />
-  </control>
-  <control id="60" kind="normal">
-    <code>138</code>
-    <location x="151.100311" y="231.496826" />
   </control>
   <control id="62" kind="normal">
     <code>139</code>
@@ -190,42 +154,35 @@
     <name>White</name>
     <labels label-kind="sequence" />
     <first course-control="1" />
-    <print-area automatic="true" restrict-to-page-size="true" left="-70.72547" top="226.542389" right="115.541206" bottom="82.60906" page-width="850" page-height="1100" page-margins="0" page-landscape="true" />
+    <print-area automatic="true" restrict-to-page-size="true" left="-71.4118958" top="231.953613" right="114.854782" bottom="88.02027" page-width="850" page-height="1100" page-margins="0" page-landscape="true" />
     <options print-scale="10000" description-kind="symbols" />
   </course>
   <course id="2" kind="normal" order="2">
     <name>Yellow</name>
     <labels label-kind="sequence" />
     <first course-control="2" />
-    <print-area automatic="true" restrict-to-page-size="true" left="-54.2902222" top="228.929321" right="131.976456" bottom="84.99598" page-width="850" page-height="1100" page-margins="0" page-landscape="true" />
+    <print-area automatic="true" restrict-to-page-size="true" left="-55.09659" top="228.929321" right="131.17009" bottom="84.99598" page-width="850" page-height="1100" page-margins="0" page-landscape="true" />
     <options print-scale="10000" description-kind="symbols" />
   </course>
   <course id="4" kind="normal" order="3">
     <name>Orange</name>
     <labels label-kind="sequence" />
     <first course-control="31" />
-    <print-area automatic="true" restrict-to-page-size="true" left="-39.9279" top="206.851074" right="146.338776" bottom="62.9177322" page-width="850" page-height="1100" page-margins="0" page-landscape="true" />
+    <print-area automatic="true" restrict-to-page-size="true" left="-33.74214" top="216.038422" right="152.524536" bottom="72.1050949" page-width="850" page-height="1100" page-margins="0" page-landscape="true" />
     <options print-scale="10000" description-kind="symbols" />
   </course>
   <course id="5" kind="normal" order="4">
     <name>Green</name>
     <labels label-kind="sequence" />
     <first course-control="49" />
-    <print-area automatic="false" restrict-to-page-size="true" left="-19.5447083" top="241.426208" right="166.72197" bottom="97.49288" page-width="850" page-height="1100" page-margins="0" page-landscape="true" />
-    <options print-scale="10000" description-kind="symbols" />
-  </course>
-  <course id="6" kind="normal" order="7">
-    <name>Red</name>
-    <labels label-kind="sequence" />
-    <first course-control="51" />
-    <print-area automatic="true" restrict-to-page-size="true" left="-82.56352" top="217.579681" right="103.703156" bottom="73.64634" page-width="850" page-height="1100" page-margins="0" page-landscape="true" />
+    <print-area automatic="false" restrict-to-page-size="true" left="-29.4956512" top="225.190491" right="156.771027" bottom="81.25715" page-width="850" page-height="1100" page-margins="0" page-landscape="true" />
     <options print-scale="10000" description-kind="symbols" />
   </course>
   <course id="8" kind="normal" order="5">
     <name>Red 2</name>
     <labels label-kind="sequence" />
     <first course-control="133" />
-    <print-area automatic="false" restrict-to-page-size="true" left="-19.324501" top="242.967651" right="166.942169" bottom="99.03431" page-width="850" page-height="1100" page-margins="0" page-landscape="true" />
+    <print-area automatic="false" restrict-to-page-size="true" left="-29.2754288" top="220.708984" right="156.991241" bottom="76.77564" page-width="850" page-height="1100" page-margins="0" page-landscape="true" />
     <options print-scale="10000" description-kind="symbols" />
   </course>
   <course-control id="1" control="1">
@@ -285,7 +242,7 @@
     <next course-control="11" />
   </course-control>
   <course-control id="38" control="25">
-    <next course-control="92" />
+    <next course-control="158" />
   </course-control>
   <course-control id="31" control="1">
     <next course-control="39" />
@@ -306,56 +263,22 @@
   <course-control id="41" control="26">
     <next course-control="42" />
   </course-control>
-  <course-control id="92" control="28">
+  <course-control id="158" control="44">
     <next course-control="157" />
   </course-control>
   <course-control id="157" control="30">
     <next course-control="156" />
   </course-control>
-  <course-control id="47" control="15">
+  <course-control id="170" control="49">
     <next course-control="91" />
   </course-control>
   <course-control id="48" control="14">
-    <next course-control="47" />
+    <next course-control="170" />
   </course-control>
   <course-control id="49" control="1">
     <next course-control="76" />
   </course-control>
   <course-control id="50" control="9" />
-  <course-control id="51" control="1">
-    <next course-control="64" />
-  </course-control>
-  <course-control id="52" control="9" />
-  <course-control id="64" control="2">
-    <next course-control="67" />
-  </course-control>
-  <course-control id="67" control="39">
-    <next course-control="66" />
-  </course-control>
-  <course-control id="66" control="40">
-    <next course-control="68" />
-  </course-control>
-  <course-control id="68" control="41">
-    <next course-control="69" />
-  </course-control>
-  <course-control id="69" control="11">
-    <next course-control="70" />
-  </course-control>
-  <course-control id="70" control="42">
-    <next course-control="71" />
-  </course-control>
-  <course-control id="71" control="43">
-    <next course-control="72" />
-  </course-control>
-  <course-control id="72" control="44">
-    <next course-control="73" />
-  </course-control>
-  <course-control id="73" control="24">
-    <next course-control="74" />
-  </course-control>
-  <course-control id="74" control="45">
-    <next course-control="52" />
-  </course-control>
   <course-control id="98" control="56">
     <next course-control="99" />
   </course-control>
@@ -363,7 +286,7 @@
     <next course-control="94" />
   </course-control>
   <course-control id="100" control="45">
-    <next course-control="128" />
+    <next course-control="163" />
   </course-control>
   <course-control id="99" control="57">
     <next course-control="100" />
@@ -372,23 +295,15 @@
     <next course-control="95" />
   </course-control>
   <course-control id="95" control="53">
-    <next course-control="96" />
+    <next course-control="98" />
   </course-control>
-  <course-control id="96" control="54">
-    <next course-control="97" />
-    <number-location x="-1.77164459" y="5.728714" />
-  </course-control>
-  <course-control id="97" control="55">
-    <next course-control="129" />
-    <number-location x="-6.3991394" y="-0.437255859" />
+  <course-control id="169" control="42">
+    <next course-control="168" />
   </course-control>
   <course-control id="85" control="47">
     <next course-control="8" />
   </course-control>
   <course-control id="88" control="50">
-    <next course-control="89" />
-  </course-control>
-  <course-control id="89" control="51">
     <next course-control="48" />
   </course-control>
   <course-control id="101" control="44">
@@ -398,21 +313,21 @@
     <next course-control="106" />
     <number-location x="1.279808" y="6.352379" />
   </course-control>
-  <course-control id="128" control="24">
+  <course-control id="160" control="30">
     <next course-control="101" />
   </course-control>
-  <course-control id="129" control="60">
-    <next course-control="98" />
+  <course-control id="166" control="42">
+    <next course-control="126" />
   </course-control>
   <course-control id="106" control="43">
-    <next course-control="126" />
+    <next course-control="166" />
   </course-control>
   <course-control id="148" control="9" />
   <course-control id="147" control="58">
     <next course-control="148" />
   </course-control>
   <course-control id="146" control="43">
-    <next course-control="149" />
+    <next course-control="169" />
   </course-control>
   <course-control id="145" control="46">
     <next course-control="146" />
@@ -421,11 +336,11 @@
   <course-control id="144" control="44">
     <next course-control="145" />
   </course-control>
-  <course-control id="143" control="24">
+  <course-control id="161" control="30">
     <next course-control="144" />
   </course-control>
   <course-control id="142" control="45">
-    <next course-control="143" />
+    <next course-control="164" />
   </course-control>
   <course-control id="141" control="57">
     <next course-control="142" />
@@ -433,16 +348,11 @@
   <course-control id="140" control="56">
     <next course-control="141" />
   </course-control>
-  <course-control id="139" control="60">
-    <next course-control="140" />
+  <course-control id="163" control="15">
+    <next course-control="160" />
   </course-control>
-  <course-control id="138" control="55">
-    <next course-control="139" />
-    <number-location x="-5.235573" y="-0.5625" />
-  </course-control>
-  <course-control id="137" control="54">
-    <next course-control="138" />
-    <number-location x="-1.77164459" y="5.728714" />
+  <course-control id="164" control="15">
+    <next course-control="161" />
   </course-control>
   <course-control id="126" control="58">
     <next course-control="50" />
@@ -454,12 +364,12 @@
     <next course-control="134" />
   </course-control>
   <course-control id="136" control="53">
-    <next course-control="137" />
+    <next course-control="140" />
   </course-control>
   <course-control id="135" control="14">
     <next course-control="136" />
   </course-control>
-  <course-control id="149" control="42">
+  <course-control id="168" control="26">
     <next course-control="152" />
   </course-control>
   <course-control id="150" control="62">
