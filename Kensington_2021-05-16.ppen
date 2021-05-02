@@ -1,10 +1,10 @@
 ﻿<course-scribe-event>
   <event id="1">
     <title>Kensington 16-May</title>
-    <map kind="OCAD" scale="15000" ignore-missing-fonts="false" absolute-path="C:\Users\Steve\Documents\Orienteering\Kensington\Kensington\Kensington 2021.ocd">..\Kensington\Kensington 2021.ocd</map>
+    <map kind="OCAD" scale="15000" ignore-missing-fonts="false" absolute-path="F:\SMOC\Maps\Kensington 2021.ocd">..\..\Maps\Kensington 2021.ocd</map>
     <standards map="2017" description="2004" />
     <all-controls print-scale="10000" description-kind="symbols" />
-    <print-area automatic="true" restrict-to-page-size="true" left="-29.8981171" top="218.016235" right="156.368561" bottom="74.08289" page-width="850" page-height="1100" page-margins="0" page-landscape="true" />
+    <print-area automatic="true" restrict-to-page-size="true" left="-29.9845276" top="216.858429" right="156.28215" bottom="72.92509" page-width="850" page-height="1100" page-margins="0" page-landscape="true" />
     <numbering start="100" disallow-invertible="false" />
     <punch-card rows="3" columns="8" left-to-right="true" top-to-bottom="false" />
     <course-appearance scale-sizes="RelativeTo15000" scale-sizes-circle-gaps="true" auto-leg-gap-size="3.5" blend-purple="true" />
@@ -36,7 +36,7 @@
   </control>
   <control id="5" kind="normal">
     <code>103</code>
-    <location x="2.20622063" y="157.79863" />
+    <location x="1.48888016" y="158.711609" />
     <description box="D" iof-2004-ref="5.2" />
     <description box="E" iof-2004-ref="5.2" />
     <description box="F" iof-2004-ref="10.2" />
@@ -214,21 +214,21 @@
     <name>White</name>
     <labels label-kind="sequence" />
     <first course-control="1" />
-    <print-area automatic="true" restrict-to-page-size="true" left="-71.4118958" top="231.953613" right="114.854782" bottom="88.02027" page-width="850" page-height="1100" page-margins="0" page-landscape="true" />
+    <print-area automatic="true" restrict-to-page-size="true" left="-71.33858" top="232.0758" right="114.9281" bottom="88.14246" page-width="850" page-height="1100" page-margins="0" page-landscape="true" />
     <options print-scale="10000" description-kind="symbols" />
   </course>
   <course id="2" kind="normal" order="2">
     <name>Yellow</name>
     <labels label-kind="sequence" />
     <first course-control="2" />
-    <print-area automatic="true" restrict-to-page-size="true" left="-55.09659" top="228.929321" right="131.17009" bottom="84.99598" page-width="850" page-height="1100" page-margins="0" page-landscape="true" />
+    <print-area automatic="true" restrict-to-page-size="true" left="-55.0844" top="228.0495" right="131.182281" bottom="84.11617" page-width="850" page-height="1100" page-margins="0" page-landscape="true" />
     <options print-scale="10000" description-kind="symbols" />
   </course>
   <course id="4" kind="normal" order="3">
     <name>Orange</name>
     <labels label-kind="sequence" />
     <first course-control="31" />
-    <print-area automatic="true" restrict-to-page-size="true" left="-33.80385" top="207.755249" right="152.46283" bottom="63.821907" page-width="850" page-height="1100" page-margins="0" page-landscape="true" />
+    <print-area automatic="true" restrict-to-page-size="true" left="-34.19757" top="206.102722" right="152.0691" bottom="62.1693954" page-width="850" page-height="1100" page-margins="0" page-landscape="true" />
     <options print-scale="10000" description-kind="symbols" />
   </course>
   <course id="5" kind="normal" order="4">
